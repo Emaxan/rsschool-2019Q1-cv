@@ -6,13 +6,13 @@
 > 
 > Minsk, m. Sportivnaya, available relocate to Japan, not prepared for business trips
 
- ## Contacts : 
+## Contacts 
 
 > * VK: [Maxim Alexandrovich Ermoshyn](https://vk.com/maxwell_caulfield)
 > * Twitter: [emaxan1997](https://twitter.com/emaxan1997)
 > * Github: [Emaxan](https://github.com/Emaxan)
 > * Facebook: [Максим Ермошин](https://www.facebook.com/ErmoshinMaximAlexandrovich)
-> * Instagram: [maxine.__.caulfield](https://www.instagram.com/maxine.__.caulfield/)
+> * Instagram: [maxine.\_\_.caulfield](https://www.instagram.com/maxine.\_\_.caulfield/)
 > * LinkedIn: [Maxim Ermoshyn](https://www.linkedin.com/in/maxim-ermoshyn-0a5668104/)
 > * Skype: [maxikanec](skype:maxikanec)
 > * Viber: [+375291234567 (mts)](viber:add?number=375291234567)
