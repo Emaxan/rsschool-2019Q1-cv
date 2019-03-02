@@ -12,7 +12,7 @@
 > * Twitter: [emaxan1997](https://twitter.com/emaxan1997)
 > * Github: [Emaxan](https://github.com/Emaxan)
 > * Facebook: [Максим Ермошин](https://www.facebook.com/ErmoshinMaximAlexandrovich)
-> * Instagram: [maxine.\_\_.caulfield](https://www.instagram.com/maxine.\_\_.caulfield/)
+> * Instagram: [maxine.\_\_.caulfield](https://www.instagram.com/maxine.__.caulfield/)
 > * LinkedIn: [Maxim Ermoshyn](https://www.linkedin.com/in/maxim-ermoshyn-0a5668104/)
 > * Skype: [maxikanec](skype:maxikanec)
 > * Viber: [+375291234567 (mts)](viber:add?number=375291234567)
