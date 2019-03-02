@@ -8,12 +8,12 @@
 
 ## Contacts 
 
-> * VK: [Maxim Alexandrovich Ermoshyn](https://vk.com/maxwell_caulfield)
-> * Twitter: [emaxan1997](https://twitter.com/emaxan1997)
-> * Github: [Emaxan](https://github.com/Emaxan)
-> * Facebook: [Максим Ермошин](https://www.facebook.com/ErmoshinMaximAlexandrovich)
-> * Instagram: [maxine.\_\_.caulfield](https://www.instagram.com/maxine.__.caulfield/)
-> * LinkedIn: [Maxim Ermoshyn](https://www.linkedin.com/in/maxim-ermoshyn-0a5668104/)
+> * VK: [Maxim Alexandrovich Ermoshyn](https://vk.com/maxwell_caulfield){:target="_blank"}
+> * Twitter: [emaxan1997](https://twitter.com/emaxan1997){:target="_blank"}
+> * Github: [Emaxan](https://github.com/Emaxan){:target="_blank"}
+> * Facebook: [Максим Ермошин](https://www.facebook.com/ErmoshinMaximAlexandrovich){:target="_blank"}
+> * Instagram: [maxine.\_\_.caulfield](https://www.instagram.com/maxine.__.caulfield/){:target="_blank"}
+> * LinkedIn: [Maxim Ermoshyn](https://www.linkedin.com/in/maxim-ermoshyn-0a5668104/){:target="_blank"}
 > * Skype: [maxikanec](skype:maxikanec)
 > * Viber: [+375291234567 (mts)](viber:add?number=375291234567)
 > * Email: [emaxan1997@gmail.com](mailto:emaxan1997@gmail.com)
@@ -58,9 +58,9 @@
 
 ## Experience
 
-> Course project in university: [FreeMax File Manager](https://github.com/Emaxan/KSiS_course_project_FreeMax_File_Manager).
+> Course project in university: [FreeMax File Manager](https://github.com/Emaxan/KSiS_course_project_FreeMax_File_Manager){:target="_blank"}.
 > 
-> Diploma project in university: [TechArtSurvey](https://github.com/Emaxan/red-team).
+> Diploma project in university: [TechArtSurvey](https://github.com/Emaxan/red-team){:target="_blank"}.
 
 ## Education
 
